@@ -8,5 +8,10 @@
 			 <result name="success">hello.jsp</result>
 			 <result name="error">helloStrutsError.jsp</result>
 		 </action>
+		 
+		 
+		 
+		 
+		 
 	 </package>
  </struts>
