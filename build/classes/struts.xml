@@ -18,5 +18,9 @@
 			<result name="error">loginError.jsp</result>
 		</action>
 
+		<action name="InquiryAction" class="com.diworksdev.webproj2.action.InquiryAction" method ="execute">
+			<result>inquiry.jsp</result>
+		</action>
+
 	 </package>
  </struts>
