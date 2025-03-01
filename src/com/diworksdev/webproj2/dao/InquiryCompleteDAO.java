@@ -26,6 +26,8 @@ public class InquiryCompleteDAO{
 			}
 			}catch(SQLException e){
 				e.printStackTrace();
+
+
 			}
 			try{
 				con.close();
@@ -35,4 +37,6 @@ public class InquiryCompleteDAO{
 			return ret;
 		}
 	}
+
+
 
