@@ -9,7 +9,7 @@
 </head>
 <body>
 	<br>
-	<s:property value="name"/>さん、。お問い合わせありがとうございました。
+	名前：<s:property value="name"/>さん。お問い合わせありがとうございました。
 	<br>
 	<br>お問い合わせの種類：<br>
 	<s:if test='qtype =="company"'>
