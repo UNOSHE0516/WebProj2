@@ -3,7 +3,7 @@ package com.diworksdev.webproj2.action;
 import com. diworksdev.webproj2.dao.TestDAO;
 import com.opensymphony.xwork2.ActionSupport;
 
-public class TestAction  extends ActionSupport{
+public class TestAction extends ActionSupport{
 
 	 private String username;
 	 private String password;
